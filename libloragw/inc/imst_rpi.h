@@ -12,7 +12,7 @@
 #define DISPLAY_PLATFORM "IMST + Rpi"
 
 /* parameters for native spi */
-#define SPI_SPEED		100000
+#define SPI_SPEED		1000000
 #define SPI_DEV_PATH	"/dev/spidev0.0"
 #define SPI_CS_CHANGE   0
 
